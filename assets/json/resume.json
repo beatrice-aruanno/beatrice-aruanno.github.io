@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Beatrice Aruanno",
-    "label": "Post-doc researcher at the Department of Civil and Industrial Engineering - University of Pisa - Italy ",
+    "summary": "Post-doc researcher at the Department of Civil and Industrial Engineering - University of Pisa - Italy ",
     "image": "",
     "email": "beatrice.aruanno@ing.unipi.it",
     "location": {
@@ -14,11 +14,12 @@
   },
   "work": [
     {
-      "name": "Department of Civil and Industrial Engineering - University of Pisa - Italy",
+      "name": "Department of Civil and Industrial Engineering - University of Pisa",
       "position": "Post-doc researcher",
       "url": "https://www.dici.unipi.it/",
       "startDate": "Jan 2020",
       "endDate": "ongoing",
+      "location": "Pisa, Italy",
       "summary": "Main research topics include:",
       "highlights": ["Extended Reality", "Human-Computer Interaction", "Additive Manufacturing"]
     }
@@ -26,7 +27,7 @@
   "education": [
     {
       "institution": "Politecnico di Milano",
-      "location": "Milan, Itlay",
+      "location": "Milan, Italy",
       "url": "https://www.mecc.polimi.it/",
       "area": "Mechanical Engineering",
       "studyType": "PhD",
@@ -35,7 +36,7 @@
     },
     {
       "institution": "Politecnico di Milano",
-      "location": "Milan, Itlay",
+      "location": "Milan, Italy",
       "url": "https://www.mecc.polimi.it/",
       "area": "Mechanical Engineering - ",
       "studyType": "PhD",
@@ -45,8 +46,8 @@
       "courses": ["Theory of Relativity"]
     },
     {
-      "institution": "Politecnico di Milano",
-      "location": "Milan, Itlay",
+      "institution": "University of Pavia",
+      "location": "Pavia, Italy",
       "url": "https://www.mecc.polimi.it/",
       "area": "Mechanical Engineering",
       "studyType": "PhD",

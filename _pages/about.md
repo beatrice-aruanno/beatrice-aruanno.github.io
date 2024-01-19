@@ -2,13 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Pisa</a>. Department of Civil and Industrial Engineering
+subtitle: Post-doc researcher at <a href='https://www.unipi.it'>University of Pisa</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: # > removed
+  more_info: > 
+            <a href='https://www.dici.unipi.it'>Department of Civil and Industrial Engineering</a>
+             Largo Lucio Lazzarino
+             56122, Pisa - Italy
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
