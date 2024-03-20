@@ -17,7 +17,7 @@
       "name": "Department of Civil and Industrial Engineering - University of Pisa",
       "position": "Post-doc researcher",
       "url": "https://www.dici.unipi.it/",
-      "startDate": "Jan 2020",
+      "startDate": "",
       "endDate": "ongoing",
       "location": "Pisa, Italy",
       "summary": "Main research topics include:",
@@ -31,29 +31,29 @@
       "url": "https://www.mecc.polimi.it/",
       "area": "Mechanical Engineering",
       "studyType": "PhD",
-      "startDate": "Feb 2020",
-      "endDate": "Sep 2017"
+      "startDate": "",
+      "endDate": "2020"
     },
     {
       "institution": "Politecnico di Milano",
       "location": "Milan, Italy",
       "url": "https://www.mecc.polimi.it/",
-      "area": "Mechanical Engineering - ",
+      "area": "Mechanical Engineering",
       "studyType": "PhD",
-      "startDate": "Feb 2020",
-      "endDate": "Sep 2017",
-      "score": "10",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
       "courses": ["Theory of Relativity"]
     },
     {
       "institution": "University of Pavia",
       "location": "Pavia, Italy",
-      "url": "https://www.mecc.polimi.it/",
-      "area": "Mechanical Engineering",
+      "url": "http://industriale.unipv.eu/",
+      "area": "Industrial Engineering",
       "studyType": "PhD",
-      "startDate": "Feb 2020",
-      "endDate": "Sep 2017",
-      "score": "10",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
       "courses": ["Theory of Relativity"]
     }
   ],
@@ -68,33 +68,11 @@
   ],
   "certificates": [
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "IELTS 7",
+      "date": "",
+      "issuer": "British Council",
+      "url": "",
       "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "languages": [
@@ -109,28 +87,14 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "H2020-856998 Prime-VR2 - Personalised recovery through a multi-user environment: Virtual Reality for Rehabilitation",
+      "summary": "Supporting patient recovery through custom devices and VR by providing a challenging physical and psychological context based on the principles of customisation, participation, and digital integration.",
+      "highlights": ["Virtual reality", "Personalised rehabilitation"],
+      "startDate": "2019",
+      "endDate": "2023",
+      "url": "http://prime-vr2.eu"
     }
   ]
 }
