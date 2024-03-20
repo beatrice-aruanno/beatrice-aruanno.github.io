@@ -17,7 +17,7 @@
       "name": "Department of Civil and Industrial Engineering - University of Pisa",
       "position": "Post-doc researcher",
       "url": "https://www.dici.unipi.it/",
-      "startDate": "",
+      "startDate": "2021",
       "endDate": "ongoing",
       "location": "Pisa, Italy",
       "summary": "Main research topics include:",
@@ -31,7 +31,7 @@
       "url": "https://www.mecc.polimi.it/",
       "area": "Mechanical Engineering",
       "studyType": "PhD",
-      "startDate": "",
+      "startDate": "2016",
       "endDate": "2020"
     },
     {
@@ -40,10 +40,10 @@
       "url": "https://www.mecc.polimi.it/",
       "area": "Mechanical Engineering",
       "studyType": "PhD",
-      "startDate": "",
+      "startDate": "2013",
       "endDate": "2016",
       "score": "",
-      "courses": ["Theory of Relativity"]
+      "courses": [""]
     },
     {
       "institution": "University of Pavia",
@@ -51,10 +51,10 @@
       "url": "http://industriale.unipv.eu/",
       "area": "Industrial Engineering",
       "studyType": "PhD",
-      "startDate": "",
+      "startDate": "2010",
       "endDate": "2013",
       "score": "",
-      "courses": ["Theory of Relativity"]
+      "courses": [""]
     }
   ],
   "awards": [
